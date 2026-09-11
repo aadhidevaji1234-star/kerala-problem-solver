@@ -2,26 +2,25 @@
 
 
 
-# [Project Name] 🎯
+# [KERALA PROBLEM SOLVER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: VAHH]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [AADHIDEV AJI] - [JCET LAKKIDI]
+- Member 2: [SHIVANI MANJUNATH] - [JCET LAKKIDI]
 
 ### Project Description
-[2-3 lines about what your project does]
+[SOLVES UNNECESSARY PROBLEMS FACED BY GIVING ABSURDLY FOOLISH AND OUT OF CONTEXT ANSWERS THAT MAKES US THINK WHY WE EVEN OPENED THIS WEBSITE]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem (EVERYDAY MALLU PROBLEMS)
+[SOLVES NOTHING?]
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution (NO PARTICULAR SOLUTION)
+[DONT KNOW ITS USELESS]
 
 ## Technical Details
 ### Technologies/Components Used
