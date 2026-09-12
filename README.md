@@ -26,9 +26,9 @@
 ### Technologies/Components Used
 For Software:
 - [HTML]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [REACT.JS-USED FOR MAKING INTERACTIVE USER INTERFACE]
+- [TAILWIND CSS, LUCIDE REACT READ ROUTER]
+- [CHAT GPT, LOVABLE]
 
 For Hardware:
 - [List main components]
@@ -46,14 +46,14 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots 
+#![Screenshot1] Screenshots <img width="1205" height="2097" alt="Screenshot_20260912_054332" src="https://github.com/user-attachments/assets/e2c41b66-b7e0-493f-9416-002b8319f266" />  SHOWS THE MAIN PAGE WITH NAME OF WEBSITE DISPLAYED
+
   
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1216" height="2172" alt="Screenshot_20260912_055027" src="https://github.com/user-attachments/assets/78c38514-9f00-42c8-adcc-9c41ae1ca42b" /> SHOWS THE TYPE BOX TO INPUT OUR QUORRIES AND THE AD BOT(ARTIFICIALY BUMB BOT) PROCESSING FOR FOOLISH ANSWERS
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]<img width="1216" height="2204" alt="Screenshot_20260912_055313" src="https://github.com/user-attachments/assets/aa335d23-4501-4263-92f9-3fcbfd72cbb5" /> SHOWS THE USELESS ANSWER GIVEN BY THE WEBSITE AND THE OPTION TO CONSULT AMMACHI, AND AN EXPERT FOR MORE CLICHE ANSWERS ALSO THERE IS OPTION TO ASK THE AD TO MAKE IT MORE WORSE AND AN OPTION TO EXPRESS YOUR REGRET FOR ASKING THE QUESTION
+
 
 # Diagrams
               USER
