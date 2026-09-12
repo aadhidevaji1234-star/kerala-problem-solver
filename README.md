@@ -30,18 +30,20 @@ For Software:
 - [TAILWIND CSS, LUCIDE REACT READ ROUTER]
 - [CHAT GPT, LOVABLE]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+bun install
+npm install
+
 
 # Run
-[commands]
+npm run dev
+bun dev
+bun dev
+
+
 
 ### Project Documentation
 For Software:
