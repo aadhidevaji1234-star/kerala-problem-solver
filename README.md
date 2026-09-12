@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -46,9 +46,8 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+  
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -57,8 +56,26 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+              USER
+                │
+                ▼
+       Enter a Kerala Problem
+                │
+                ▼
+      ┌─────────────────────┐
+      │ Neural Chaaya Engine │
+      │       v3000          │
+      └─────────────────────┘
+                │
+                ▼
+       Fake Problem Analysis
+                │
+                ▼
+       Completely Useless
+             Solution
+                │
+                ▼
+       😂 User gets entertained
 
 For Hardware:
 
