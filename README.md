@@ -20,7 +20,7 @@
 [SOLVES NOTHING?]
 
 ### The Solution (NO PARTICULAR SOLUTION)
-[DONT KNOW ITS USELESS]
+[TBH DONT KNOW, ITS USELESS]
 
 ## Technical Details
 ### Technologies/Components Used
